@@ -1,9 +1,6 @@
 //
 //  ContentView.swift
 //  WatchConnectivityPrototype
-//
-//  Created by Chris Gaafary on 4/14/21.
-//
 
 import SwiftUI
 import WatchConnectivity

@@ -2,9 +2,6 @@
 //  Button.swift
 //  Speech to Text
 //
-//  Created by Joel Joseph on 3/22/20.
-//  Copyright © 2020 Joel Joseph. All rights reserved.
-//
 
 import Speech
 import SwiftUI

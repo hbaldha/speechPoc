@@ -2,7 +2,6 @@
 //  Counter.swift
 //  WatchConnectivityPrototype
 //
-//  Created by Chris Gaafary on 4/18/21.
 //
 
 import Foundation

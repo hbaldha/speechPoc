@@ -2,8 +2,6 @@
 //  ComplicationController.swift
 //  SwiftUIWatchConnectivity WatchKit Extension
 //
-//  Created by Chris Gaafary on 4/19/21.
-//
 
 import ClockKit
 

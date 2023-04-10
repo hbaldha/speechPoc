@@ -2,7 +2,6 @@
 //  SessionDelegator.swift
 //  WatchConnectivityPrototype
 //
-//  Created by Chris Gaafary on 4/15/21.
 //
 
 import Combine

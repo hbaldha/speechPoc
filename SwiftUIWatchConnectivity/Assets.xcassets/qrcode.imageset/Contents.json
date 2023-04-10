@@ -1,0 +1,13 @@
+{
+  "images" : [
+    {
+      "filename" : "qrcg-sample.png",
+      "idiom" : "watch",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
